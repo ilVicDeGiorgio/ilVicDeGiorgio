@@ -26,12 +26,10 @@ Ops, scusa per l'incomprensione. Ecco i tuoi tech stack aggiornati:
   ![TEAM EXPERIENCE](https://img.shields.io/badge/-TEAM%20EXPERIENCE-333333?style=flat)
 - 🛢 &nbsp;
   ![MYSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=mysql)
-  ![MONGODB](https://img.shields.io/badge/-MONGODB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![GITHUB](https://img.shields.io/badge/-GITHUB-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![VISUAL STUDIO CODE](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-333333?style=flat&logo=visual-studio-code)
-  ![RSTUDIO](https://img.shields.io/badge/-RSTUDIO-333333?style=flat&logo=rstudio)
 
 <br/>
 
