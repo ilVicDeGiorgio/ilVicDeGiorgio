@@ -8,9 +8,6 @@
 - 💼 &nbsp; Worked as a hardware and software technician at the University of Magna Graecia in Catanzaro on behalf of HS Company.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-Ecco i tuoi tech stack aggiornati:
-
-Ops, scusa per l'incomprensione. Ecco i tuoi tech stack aggiornati:
 
 - 💻 &nbsp;
   ![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=git)
